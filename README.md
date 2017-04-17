@@ -17,7 +17,7 @@ Awesome game
 
 # Game state data model
 
-````
+```
 {
   time: <uint64>,
   players: {
@@ -38,4 +38,4 @@ Awesome game
     }
   }
 }
-````
+```
